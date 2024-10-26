@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "skNXJjVi4QGyCDBfL37ZKZCygiDZGHqkyLUH4IO48sw0UQuIM3CVrBBRXmfv2Zh4CCGaggY6Tgb8bM5hvD8yAw==",
+  "success": true,
+  "projectFilePath": "/Users/sicongfu/Desktop/MCDA5510/A2/ProgAssign1/ProgAssign1/Assignment1/Assignment1.csproj",
+  "expectedPackageFiles": [
+    "/Users/sicongfu/.nuget/packages/microsoft.netcore.platforms/7.0.4/microsoft.netcore.platforms.7.0.4.nupkg.sha512",
+    "/Users/sicongfu/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/sicongfu/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/sicongfu/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
